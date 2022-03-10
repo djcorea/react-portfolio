@@ -1,0 +1,18 @@
+{"danyCorea": {
+    "portfolio": [
+        {
+            "id": "fosforera",
+            "name": "SISTEMA DE INVENTARIO FOSFORERA CENTROAMERICANA",
+            "img": "images/portfolio/gallery/fosforera_two.png",
+            "description": " Es un sistema web desarrollado para la Fosforera Centroaméricana, su función principal es llevar un control de inventario tanto como de materia prima y producto terminado producido por la organización, integrado con su modulo de seguridad de roles y permisos autoadministrable.",
+            "tech": [
+                "Laravel",
+                "Livewire ",
+                "Bootstap",
+                "MySQL"
+            ]
+        }
+        
+    ]
+ }
+}
